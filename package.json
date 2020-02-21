@@ -1,0 +1,19 @@
+{
+  "name": "discord-trivia-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poop-squad/discord-trivia-bot.git"
+  },
+  "author": "poop squad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/poop-squad/discord-trivia-bot/issues"
+  },
+  "homepage": "https://github.com/poop-squad/discord-trivia-bot#readme"
+}
